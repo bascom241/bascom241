@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bascom241&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://twitter.com/basscotte_" target="blank"><img src="https://img.shields.io/twitter/follow/basscotte_?logo=twitter&style=flat-square&color=0e75b6" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/basscotte_" target="blank"><img src="https://pbs.twimg.com/profile_banners/1670140690976653314/1783003513/1080x360" alt="Twitter Follow" /></a>
 </p>
 
 <p align="center">
